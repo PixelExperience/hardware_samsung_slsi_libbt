@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fad1ad80_6c3e7d8d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000694
+      },
+      "writtenOn": "2022-09-17T21:18:08Z",
+      "side": 1,
+      "message": "Works for me on Moto One Vision",
+      "revId": "b049a64cc6389e816805483487fc1b60abb95367",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}
